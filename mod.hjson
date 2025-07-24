@@ -2,16 +2,16 @@
 displayName: "Java Mod Template"
 
 #the internal name of your mod
-name: "example-java-mod"
+name: "gim"
 
 #your name
 author: "You"
 
 #the fully qualified main class of the mod
-main: "example.ExampleJavaMod"
+main: "gimod.GIMod"
 
 #the mod description as seen in the mod dialog
-description: "A Mindustry Java mod template."
+description: "Making small games with mods in mindustry."
 
 #the mod version
 version: 1.0
